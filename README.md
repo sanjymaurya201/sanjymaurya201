@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Sanjay Maurya</h1>
+<h3 align="center">A passionate Full stack developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjymaurya201&label=Profile%20views&color=0e75b6&style=flat" alt="sanjymaurya201" /> </p>
+
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Developer<br><br>🌱 I’m currently working React.js, Next.js,Node.js,Express.js,Next.js , Php<br><br>💬 Ask me about React.js, Next.js,Node.js,Express.js,Next.js ,  Php<br><br>📫 How to reach me sanjaymaurya201@gmail.com
 
