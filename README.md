@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjymaurya201&label=Profile%20views&color=0e75b6&style=flat" alt="sanjymaurya201" /> </p>
 
-# 💫 About Me:
-🔭 I’m currently working on Full Stack Developer<br><br>🌱 I’m currently working React.js, Next.js,Node.js,Express.js,NestJs,Next.js, With React Native, Php<br><br>💬 Ask me about React.js, Next.js,Node.js,Express.js,Next.js ,  Php<br><br>📫 How to reach me sanjaymaurya201@gmail.com
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjay_maurya81) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17118035) 
 
