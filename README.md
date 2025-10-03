@@ -11,8 +11,10 @@
 - 💹 Building **Trading Bots, FinTech & Algo-Trading Applications**  
 - 🌱 Currently diving deep into **Rust, WASM & AI Agents**  
 - 💬 Ask me about **React, Node.js, Solidity, AI Models, Trading APIs**  
-- 📫 Reach me at **sanjay_maurya81@domain.com**
-
+- 📫 Reach me at:
+  - **Email:** [sanjaymaurya201@gmail.com](mailto:sanjaymaurya201@gmail.com)  
+  - **WhatsApp:** +91 81810 76202
+- ⚡ Passionate about **AI-driven apps, scalable solutions, and next-gen technologies**
 
 ---
 
